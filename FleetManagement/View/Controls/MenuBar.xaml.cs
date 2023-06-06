@@ -56,10 +56,10 @@ public partial class MenuBar : UserControl
             case PageName.Home:
                 break;
             case PageName.Vehicle:
-                mainFrame.Content = new Vehicle();
+                mainFrame.Content = new ManageVehicleView();
                 break;
             case PageName.VehicleList:
-                mainFrame.Content = new VehicleList();
+                mainFrame.Content = new VehicleListingView();
                 break;
             default:
                 break;

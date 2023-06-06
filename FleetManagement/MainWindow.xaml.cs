@@ -30,12 +30,12 @@ namespace FleetManagement
 
         private void btnNewVehicle_Click(object sender, RoutedEventArgs e)
         {
-            Main.Content = new Vehicle();
+            Main.Content = new ManageVehicleView();
         }
 
         private void btnVehicleList_Click(object sender, RoutedEventArgs e)
         {
-            Main.Content = new VehicleList();
+            Main.Content = new VehicleListingView();
         }
     }
 }

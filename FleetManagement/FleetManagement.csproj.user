@@ -10,10 +10,10 @@
     <Compile Update="View\Controls\MenuBar.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\Pages\Vehicle.xaml.cs">
+    <Compile Update="View\Pages\ManageVehicleView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\Pages\VehicleList.xaml.cs">
+    <Compile Update="View\Pages\VehicleListingView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -24,10 +24,10 @@
     <Page Update="View\Controls\MenuBar.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\Pages\Vehicle.xaml">
+    <Page Update="View\Pages\ManageVehicleView.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\Pages\VehicleList.xaml">
+    <Page Update="View\Pages\VehicleListingView.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

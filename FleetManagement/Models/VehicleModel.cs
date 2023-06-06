@@ -11,13 +11,10 @@ public class VehicleModel
     public Guid Id { get; set; }
     public string Make { get; set; }
     public string Model { get; set; }
-    public int Status { get; set; }
-
-    public VehicleModel (string make, string model, int status) 
+    public VehicleModel (string make, string model) 
     {
         Make = make;
         Model = model;
-        Status = status;
     }
 
     public override string ToString()

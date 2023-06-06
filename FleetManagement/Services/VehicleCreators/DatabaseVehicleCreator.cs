@@ -31,7 +31,6 @@ public class DatabaseVehicleCreator : IVehicleCreator
         {
             Make = vehicleModel.Make,
             Model = vehicleModel.Model,
-            Status = vehicleModel.Status
         };
     }
 }

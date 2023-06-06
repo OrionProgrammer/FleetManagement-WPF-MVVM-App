@@ -18,9 +18,9 @@ namespace FleetManagement.View.Pages
     /// <summary>
     /// Interaction logic for Vehicle.xaml
     /// </summary>
-    public partial class Vehicle : Page
+    public partial class ManageVehicleView : Page
     {
-        public Vehicle()
+        public ManageVehicleView()
         {
             InitializeComponent();
         }

@@ -39,8 +39,7 @@ public class ManageVehicleCommand : AsyncCommandBase
 
         VehicleModel vehicleModel = new VehicleModel(
             _manageVehicleViewModel.Make,
-            _manageVehicleViewModel.Model,
-            _manageVehicleViewModel.Status);
+            _manageVehicleViewModel.Model);
 
         try
         {

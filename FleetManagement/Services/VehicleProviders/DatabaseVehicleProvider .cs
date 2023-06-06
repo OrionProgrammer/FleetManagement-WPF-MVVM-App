@@ -29,6 +29,6 @@ public class DatabaseVehicleProvider : IVehicleProvider
 
     private static VehicleModel ToVehicle(VehicleDTO dto)
     {
-        return new VehicleModel(dto.Make, dto.Model, dto.Status);
+        return new VehicleModel(dto.Make, dto.Model);
     }
 }

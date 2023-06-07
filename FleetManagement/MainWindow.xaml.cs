@@ -12,8 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using FleetManagement.View.Controls;
-using FleetManagement.View.Pages;
+using FleetManagement.Views.Controls;
+using FleetManagement.Views;
 
 namespace FleetManagement
 {
@@ -30,12 +30,12 @@ namespace FleetManagement
 
         private void btnNewVehicle_Click(object sender, RoutedEventArgs e)
         {
-            Main.Content = new ManageVehicleView();
+            //Main.Content = new ManageVehicleView();
         }
 
         private void btnVehicleList_Click(object sender, RoutedEventArgs e)
         {
-            Main.Content = new VehicleListingView();
+            //Main.Content = new VehicleListingView();
         }
     }
 }

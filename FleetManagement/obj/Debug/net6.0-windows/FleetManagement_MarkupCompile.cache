@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Code Repo\FleetManagement\FleetManagement\obj\Debug\net6.0-windows\
+C:\Code Repo\FleetManagement-WPF-MVVM-App\FleetManagement\obj\Debug\net6.0-windows\
 FleetManagement
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Code Repo\FleetManagement\FleetManagement\App.xaml
-41074071441
+C:\Code Repo\FleetManagement-WPF-MVVM-App\FleetManagement\App.xaml
+4-1226687808
 
-33-1933406834
-222-342342644
-MainWindow.xaml;View\Controls\MenuBar.xaml;View\Pages\Vehicle.xaml;View\Pages\VehicleList.xaml;
+35224234097
+241-1613555955
+MainWindow.xaml;Views\Controls\MenuBar.xaml;Views\ManageVehicleView.xaml;Views\VehicleListingView.xaml;
 
 False
 

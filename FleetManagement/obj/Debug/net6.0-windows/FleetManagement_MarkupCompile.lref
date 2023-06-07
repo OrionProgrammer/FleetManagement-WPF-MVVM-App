@@ -1,7 +1,7 @@
 ﻿
 
-FC:\Code Repo\FleetManagement\FleetManagement\MainWindow.xaml;;
-FC:\Code Repo\FleetManagement\FleetManagement\View\Controls\MenuBar.xaml;;
-FC:\Code Repo\FleetManagement\FleetManagement\View\Pages\Vehicle.xaml;;
-FC:\Code Repo\FleetManagement\FleetManagement\View\Pages\VehicleList.xaml;;
+FC:\Code Repo\FleetManagement-WPF-MVVM-App\FleetManagement\MainWindow.xaml;;
+FC:\Code Repo\FleetManagement-WPF-MVVM-App\FleetManagement\Views\Controls\MenuBar.xaml;;
+FC:\Code Repo\FleetManagement-WPF-MVVM-App\FleetManagement\Views\ManageVehicleView.xaml;;
+FC:\Code Repo\FleetManagement-WPF-MVVM-App\FleetManagement\Views\VehicleListingView.xaml;;
 

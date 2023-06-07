@@ -7,13 +7,13 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="View\Controls\MenuBar.xaml.cs">
+    <Compile Update="Views\Controls\MenuBar.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\Pages\ManageVehicleView.xaml.cs">
+    <Compile Update="Views\ManageVehicleView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\Pages\VehicleListingView.xaml.cs">
+    <Compile Update="Views\VehicleListingView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -21,13 +21,13 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\Controls\MenuBar.xaml">
+    <Page Update="Views\Controls\MenuBar.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\Pages\ManageVehicleView.xaml">
+    <Page Update="Views\ManageVehicleView.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\Pages\VehicleListingView.xaml">
+    <Page Update="Views\VehicleListingView.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
